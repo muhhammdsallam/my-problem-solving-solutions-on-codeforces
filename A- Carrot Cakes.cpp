@@ -9,7 +9,7 @@ using namespace std;
 int main() {
     int n,t,k,d;
     cin>>n>>t>>k>>d;
-    float t1=0;
+    int t1=0;
     int t2=0;
     if(n%k==0){
         t1 = n/k * t;
